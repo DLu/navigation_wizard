@@ -1,0 +1,16 @@
+<package>
+  <description brief="navigation_wizard">
+
+     navigation_wizard
+
+  </description>
+  <author>David!!</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/navigation_wizard</url>
+  <depend package="rospy"/>
+  <depend package="rosbag"/>
+
+</package>
+
+
